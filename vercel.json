@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd nextjs14 && npm install && npm run build",
+  "outputDirectory": "nextjs14/.next"
+}
